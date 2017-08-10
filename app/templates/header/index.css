@@ -1,0 +1,60 @@
+.desktop_style_index .btn.btn-default{
+	background : #242424;
+	border : none;
+	color  : #fff;
+}
+.header_menu {
+	background-color : #242424;
+	color : #7e7e7e;
+}
+.logo_label {
+	color : #57c5a0;
+	font-size : 20px;
+	padding-top : 12px;
+}
+.border-right {
+	border-right : 1px solid #7e7e7e;
+}
+.navbar-form {
+	@media only screen and (max-width : 480px) {
+		border-bottom: none;
+	}
+}
+.login_register label {
+	padding-top: 12px;
+	padding-bottom: 13px;
+}
+.login_register {
+	text-align: center;
+}
+.header_menu_container nav {
+	background: #fff;
+	color: #000;
+}
+.header_menu_second .container div {
+	padding-left : 0px;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+	background-color: #ebe7df;
+}
+.navbar-default .navbar-nav>li>a, .footer_div a {
+	color : #000;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+	@media only screen and (max-width : 480px) {
+		text-decoration: underline;
+	}
+}
+.green_index_nav  {
+	margin-bottom: 0px;
+	border: none;
+	text-transform: capitalize;
+}
+#rox_nav_menu_id {
+	@media only screen and (max-width : 480px) {
+		padding-right: 0px;
+	}
+}
+#rox_nav_menu_id a {
+	padding-left: 10px;
+}

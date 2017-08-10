@@ -1,0 +1,230 @@
+.coupon_value {
+	font-size : 40px;
+}
+.percentage_sign {
+	font-size : 17px;
+}
+.off_patern {
+	font-size : 22px;
+}
+span.use_intraction {
+	background: #ddd none repeat scroll 0 0;
+    color: #000;
+    font-size: 11px;
+    font-style: italic;
+    padding: 12px;
+}
+span.smaill_text {
+	font-size : 10px;
+}
+span.use_intraction span {
+	background: #252627 none repeat scroll 0 0;
+	color: #fff;
+	font-size: 13px;
+	font-style: normal;
+	padding: 4px;
+}
+section.item_object {
+	min-height : 400px;
+}
+.coupon_design {
+	  background: #fff none repeat scroll 0 0;
+    color: #000;
+    padding: 30px 10px;
+    text-align: center;
+}
+.sidebar_block {
+	background: rgb(240, 240, 240) none repeat scroll 0% 0%;
+	padding : 30px 15px;
+}
+
+.header_menu_second .container div, #example-navbar-collapse {
+	padding-left : 0px;
+}
+.green_index_nav  {
+	margin-bottom: 0px;
+	border: none;
+	text-transform: capitalize;
+}
+.sidebar_block .coupon_design:last-child {
+	background : #cacaca;
+	margin-top : 50px;
+}
+.or_text {
+	margin-top : 50px;
+}
+.body_div {
+	margin-bottom : 20px;
+}
+body {
+	overflow-x: hidden;
+}
+.thankyoudiv, .empty_cart {
+	min-height : 275px;
+}
+.card_view table  { 
+	width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #e0dcdc;
+}
+.card_view table  tbody tr:nth-of-type(odd) { 
+	background: #eee; 
+}
+.search_product {
+	padding: 5px;
+	min-width: 300px;
+}
+.card_view table  thead th { 
+	background: #57c5a0; 
+	color: white; 
+	font-weight: bold; 
+}
+.card_view table  tbody td, .card_view table  thead th { 
+	padding: 6px; 
+	text-align: left; 
+}
+.btn-group-sm>.btn, .btn-sm {
+    margin-right: 10px;
+    margin-left: 8px;
+}
+.quantity_change, .shop_quantity_change {
+	width: 50px;
+	padding: 0px 2px;
+	margin : 0 auto;
+}
+.shop_quantity_change {
+	margin-left: 10px;
+	padding: 5px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+.show_error {
+	background : red;
+	color:#fff;
+	padding : 10px;
+}
+.shop_price {
+	display: block;
+    padding: 10px 0px;
+}
+.product_price, .product_subtotal, .price{
+	width: 100px;
+    display: block;
+    text-align: center;
+}
+.price {
+	text-align: left !important;
+}
+.coupon_textbox, .coupon_apply {
+	margin-right: 5px;
+}
+.coupon_textbox {
+    padding: 5px;
+    border-radius: 5px;
+}
+.continue_shopping {
+	margin-right: 10px;
+}
+.card_view table  tbody td {
+	vertical-align: middle;
+}
+.card_view table  thead th {
+	text-align: center;
+}
+.cancel_product {
+	padding: 2px 5px 2px 5px;
+	font-size: 10px;
+	line-height: 1.5;
+}
+.header_column {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+	 background-color: #ebe7df;
+}
+.desktop_style_index .btn.btn-default{
+	background : #242424;
+	border : none;
+	color  : #fff;
+}
+.footer_bg2 .nav>li>a:focus, .footer_bg2 .nav>li>a:hover {
+	background : #2e2e2e;
+}
+.header_menu_container nav, .footer_div{
+	background: #fff;
+}
+.header_menu_container nav {
+	color  : #000;
+}
+.navbar-default .navbar-nav>li>a, .footer_div a {
+	color : #000;
+}
+.login_register label {
+	padding-top: 12px;
+	padding-bottom: 13px;
+}
+.login_register {
+	text-align: center;
+}
+.header_menu {
+	background-color : #242424;
+	color : #7e7e7e;
+}
+.carousal_padding {
+	padding-left : 0px;
+	padding-right : 0px;
+}
+.logo_label {
+	color : #57c5a0;
+	font-size : 20px;
+	padding-top : 12px;
+}
+.sidebar_block {
+	background : #57c5a0;
+}
+.btn-primary:hover , .btn-primary {
+	background-color: #57c5a0 !important;
+  border-color: #57c5a0 !important;
+}
+.body_addon {
+	padding-top: 30px;
+	margin-top: 30px;
+	border-top: 1px solid #bcb5a7;
+}
+.free_shipping, .testimonial, .blog_news {
+	background: #dfdbd4;
+  padding: 30px 20px;
+}
+.body_addon {
+	clear : both;
+}
+a {
+	color : #000;
+}
+.border-right {
+	border-right : 1px solid #7e7e7e;
+}
+.body_div, body {
+    background: #ebe7df;
+}
+.cart_item_img {
+	width : 70px;
+	margin-top : 10px;
+}
+.fotter_menu li {
+	display: inline-block;
+	padding: 10px;
+}
+.copyright_text  {
+	color: #fff;
+	text-align: center;
+}
+.site_logo {
+    font-size: 30px;
+    color: #337ab7;
+	font-family: 'Lobster', cursive;
+}
+.cart_totals {
+    padding: 20px 0px;
+}

@@ -1,0 +1,3 @@
+function newFnN(){
+	return "newFnN";
+}
